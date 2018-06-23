@@ -1,0 +1,15 @@
+{
+  "name": "blockworld-server",
+  "version": "0.0.1-beta",
+  "description": "Block World Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "SquarePear",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
